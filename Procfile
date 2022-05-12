@@ -1,1 +1,1 @@
-web: run this thing 
+web: setup.sh && streamlit run clv_musteri_segmentasyon.py
