@@ -174,7 +174,6 @@ df.dropna(inplace=True)
 production = pd.read_csv("squark_automotive_CLV_production_data.csv")
 segments = pd.read_csv("New_Segments.csv")
 segments.drop("Unnamed: 0", axis=1, inplace=True)
-df_map = pd.read_csv("df_map.csv")
 df = df.drop(["Effective To Date", "Customer"], axis=1)
 production = production.drop(["Effective To Date", "Customer"], axis=1)
 ###################################################
