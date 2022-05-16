@@ -4,6 +4,7 @@
  - **Kullanılan dataseti:** https://www.kaggle.com/datasets/arashnic/marketing-seris-customer-lifetime-value  
  - **Proje Ekibi:** Çağla Kandemir, Olcay Gündoğdu, Başak Kafes, İrem Özen  
  - **PDF Dosyası:**  [[Grup - 5] CLV Tahmini ve Müşteri Segmentasyonu.pdf](https://github.com/caglakndmr/CLV-Musteri-Segmentasyonu/files/8694766/Grup.-.5.CLV.Tahmini.ve.Musteri.Segmentasyonu.pdf)
+ - **Uygulama:** https://share.streamlit.io/caglakndmr/clv-musteri-segmentasyonu/main/clv_musteri_segmentasyon.py
 
 ![Slide3](https://user-images.githubusercontent.com/58229139/168468965-1df7ab95-d5ca-4523-9089-62defbb51da8.PNG)  
   
